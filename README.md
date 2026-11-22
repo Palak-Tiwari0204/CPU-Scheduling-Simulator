@@ -2,7 +2,7 @@
 
 A console-based Java application that simulates CPU scheduling using **Non-Preemptive Priority Scheduling** and **Round Robin Scheduling**. This project demonstrates the practical implementation of Data Structures and Algorithms (DSA) concepts such as Singly Linked List, Insertion Sort, Circular Queue, and Min-Heap.
 
-## 📌 Project Overview
+##  Project Overview
 
 The CPU Scheduling Simulator demonstrates how an operating system selects processes for CPU execution using different scheduling algorithms.
 
@@ -10,7 +10,7 @@ The user enters process details such as Process ID, Arrival Time, Burst Time, an
 
 It also calculates the Completion Time, Turnaround Time, Waiting Time, and their averages.
 
-## 🎯 Objectives
+##  Objectives
 
 - Implement CPU scheduling algorithms using Java.
 - Understand the working of Non-Preemptive Priority Scheduling.
@@ -19,7 +19,7 @@ It also calculates the Completion Time, Turnaround Time, Waiting Time, and their
 - Calculate process scheduling performance metrics.
 - Display the execution sequence using a Gantt chart.
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Programming Language:** Java
 - **Data Structures:** Singly Linked List, Circular Queue, Min-Heap
@@ -27,7 +27,7 @@ It also calculates the Completion Time, Turnaround Time, Waiting Time, and their
 - **IDE:** VS Code / IntelliJ IDEA / Any Java IDE
 - **Version Control:** Git and GitHub
 
-## 🧠 DSA Concepts Implemented
+##  DSA Concepts Implemented
 
 | Concept | Purpose |
 |---|---|
@@ -37,7 +37,7 @@ It also calculates the Completion Time, Turnaround Time, Waiting Time, and their
 | Min-Heap | Selects the highest-priority process |
 | CPU Scheduling | Simulates process execution |
 
-## 🚀 Scheduling Algorithms
+##  Scheduling Algorithms
 
 ### 1. Priority Scheduling (Non-Preemptive)
 
@@ -53,7 +53,7 @@ It also calculates the Completion Time, Turnaround Time, Waiting Time, and their
 - Newly arrived processes are added to the queue before the running process is re-queued.
 - An array-based Circular Queue is used to manage the ready queue.
 
-## 📊 Scheduling Metrics
+##  Scheduling Metrics
 
 The program calculates the following values:
 
@@ -65,7 +65,7 @@ The program calculates the following values:
 | Average Waiting Time | Total WT / Number of Processes |
 | Average Turnaround Time | Total TAT / Number of Processes |
 
-## 🖥️ Features
+##  Features
 
 - Console-based user interaction
 - Two CPU scheduling algorithms
@@ -78,7 +78,7 @@ The program calculates the following values:
 - Handling of CPU idle time
 - Invalid input detection
 
-## ▶️ How to Run
+##  How to Run
 
 ### Prerequisites
 
@@ -112,7 +112,7 @@ The program calculates the following values:
    java CPUSchedulingSimulator
    ```
 
-## 📝 Sample Test Cases
+##  Sample Test Cases
 
 The project includes the following test scenarios:
 
@@ -121,7 +121,7 @@ The project includes the following test scenarios:
 - Invalid burst time input
 - Round Robin scheduling with different arrival times
 
-## 🔮 Future Scope
+##  Future Scope
 
 The project can be extended with:
 
@@ -132,7 +132,7 @@ The project can be extended with:
 - Comparing multiple scheduling algorithms
 - Graphical Gantt chart visualization
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned how to:
 
@@ -143,14 +143,14 @@ Through this project, I learned how to:
 - Calculate process performance metrics.
 - Use Git and GitHub for project management.
 
-## 👩‍💻 Author
+##  Author
 
 **Palak Tiwari**
 
 Bachelor of Technology  
 Computer Science and Engineering (AI & ML)
 
-## 📄 Project Information
+##  Project Information
 
 - **Subject:** Data Structures and Algorithms (DSA)
 - **Project Title:** CPU Scheduling Simulator
